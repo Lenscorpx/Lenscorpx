@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Lens MUTOMBO Lukusa 👋</h2>
+<h2> Hey there! I'm Lens MUTOMBO aka Lenscorpx 👋</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -13,10 +13,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💼 &nbsp; Mobile Application Development: Flutter (Dart), Java Android, Kotlin Android.
-- 💼 &nbsp; Web Application Development: ReactJS, GraphQL, NodeJS, ExpressJS, HapiJS, Javascript, HTML5, Typescript, Redux, NestJS.
-- 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms).
-- 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase.
-- 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker.
+- 💼 &nbsp; Web Application Development: ReactJS, GraphQL, NodeJS, ExpressJS, HapiJS, Javascript, HTML5, CSS3, Typescript, Redux, NestJS, JestJs, Cypress, Enzyme.
+- 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms), Java (Swing), ElectronJS.
+- 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase, MySQL, Oracle.
+- 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 
 <br/>
 
