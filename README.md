@@ -18,6 +18,12 @@
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase, MySQL, Oracle.
 - 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 
+<h3>🏻‍💻 Learning </h3>
+
+- 💻 &nbsp; Web Assemblies with Rust and C++
+- 💻 &nbsp; Aspnetcore and Reactjs
+- 💻 &nbsp; Django and FastApi
+
 <br/>
 
 [![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true)](https://github.com/lenscorpx)
