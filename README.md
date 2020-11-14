@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, Save Communities in Conflict).
 - 🤔 &nbsp; Tech Community Manager (Congo Developers Club, Innovation Days).
 - 🤔 &nbsp; Height : 6.3 ft (1m90), Brown Eyes, Basketball, Football (Barcelona Fan).
-- 🎓 &nbsp; Studied Computer Science at ISIG (Institut Superieur d'Informatique et de Gestion, Bac+5).
+- 🎓 &nbsp; Studied Computer Science at ISIG Edition (Institut Superieur d'Informatique et de Gestion, 2011-2016, Bac+5).
 
 <h3>🛠 Tech Stack</h3>
 
