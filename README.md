@@ -26,7 +26,9 @@
 
 <br/>
 
-[![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true)](https://github.com/lenscorpx)
+[![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&count_private=true)](https://github.com/lenscorpx)
+[![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&layout=compact)](https://github.com/lenscorpx)
+
 
 <h3> 🤝🏻 Hangout with Me </h3>
 
