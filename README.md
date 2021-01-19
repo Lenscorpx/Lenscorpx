@@ -25,7 +25,7 @@
 - 💻 &nbsp; Django and FastApi
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx)]
 
 [![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&count_private=true)](https://github.com/lenscorpx)
 
