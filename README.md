@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Qwadoo).
-- 🤔 &nbsp; Software Engineer (La Difference, Conebase SAS).
+- 🤔 &nbsp; Software Engineer (Conebase SAS).
 - 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, Save Communities in Conflicts).
 - 🤔 &nbsp; Tech Community Manager (Congo Developers Club, Innovation Days).
 - 🤔 &nbsp; Height : 6.3 ft (1m90), Brown Eyes, Basketball, Football (Barcelona Fan).
