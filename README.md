@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Qwadoo).
+- 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Weka SAS).
 - 🤔 &nbsp; Software Engineer (Conebase SAS).
 - 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, UNFPA, Save Communities in Conflicts).
 - 🤔 &nbsp; Tech Community Manager (Congo Developers Club, Innovation Days).
