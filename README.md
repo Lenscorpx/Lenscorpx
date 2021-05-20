@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Qwadoo).
 - 🤔 &nbsp; Software Engineer (Conebase SAS).
-- 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, Save Communities in Conflicts).
+- 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, UNFPA, Save Communities in Conflicts).
 - 🤔 &nbsp; Tech Community Manager (Congo Developers Club, Innovation Days).
 - 🤔 &nbsp; Height : 6.3 ft (1m90), Brown Eyes, Basketball, Football (Barcelona Fan).
 - 🎓 &nbsp; Studied Computer Science at ISIG Edition (Institut Superieur d'Informatique et de Gestion, 2011-2016, Bac+5).
