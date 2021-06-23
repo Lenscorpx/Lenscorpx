@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lensmutombo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lensmutombo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://https://twitter.com/lens_mutombo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-lensmutombo-blue?style=flat-square&logo=twitter"></a>
+<a href="https://https://twitter.com/lenscorpx"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-lensmutombo-blue?style=flat-square&logo=twitter"></a>
 <a href="https://https://dev.to/lenscorpx"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-lenscorpx-blue?style=flat-square&logo=dev.to"></a>
 <a href="https://www.facebook.com/lensml/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-lensml-blue?style=flat-square&logo=Facebook"> </a>
 <a href="https://www.instagram.com/lens_ml/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lensml-blue?style=flat-square&logo=Instagram"> </a>
