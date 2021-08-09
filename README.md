@@ -1,5 +1,3 @@
-
-<h2> Hey there! I'm Lens 👋</h2>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Lens+Mutombo;aka+Lenscorpx)
 
 <h3> 👨🏻‍💻 About Me </h3>
