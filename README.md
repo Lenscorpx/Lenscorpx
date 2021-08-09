@@ -1,6 +1,7 @@
 
-<h2> Hey there! I'm Lens MUTOMBO aka Lenscorpx 👋</h2>
-
+<h2> Hey there! I'm Lens 👋</h2>
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Lens+Mutombo+aka+Lenscorpx;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Sotware+Engineer,+Entrepreneur,+Data+Analyst;)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Weka SAS).
