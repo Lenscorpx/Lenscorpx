@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Lens+Mutombo;aka+Lenscorpx)
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Software+Engineer;Entrepreneur;Data Analyst)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=18&lines=I'm+a+Software+Engineer)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
