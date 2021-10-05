@@ -25,8 +25,25 @@
 
 <br/>
 
-[![Lens MUTOMBO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&count_private=true)](https://github.com/lenscorpx)
+<p align="center">
+    <a href="https://github.com/lenscorpx/github-readme-streak-stats">
+        <img title="🔥 My streak stats at git.io/streak-stats" alt="Lenscorpx's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Lenscorpx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=dark&hide_title=true)](https://github.com/lenscorpx)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/lenscorpx)|![Lenscorpx](https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=dark)
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+[![Lenscorpx's github activity graph](https://activity-graph.herokuapp.com/graph?username=lenscorpx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/lenscorpx/github-readme-activity-graph)
+<br/>
+<br/>
 
 <h3> 🤝🏻 Hangout with Me </h3>
 
