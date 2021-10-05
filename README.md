@@ -61,4 +61,3 @@
     <img src="https://komarev.com/ghpvc/?username=lenscorpx">
 </a>
 <a href="https://github.com/lenscorpx?tab=followers"><img src="https://img.shields.io/github/followers/lenscorpx?label=Followers&style=social" alt="GitHub Badge"></a>
-⭐️ From [lenscorpx](https://github.com/lenscorpx)
