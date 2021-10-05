@@ -35,9 +35,6 @@
 |-|-|-|
 |[![Lenscorpx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=dark&hide_title=true)](https://github.com/lenscorpx)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/lenscorpx)|![Lenscorpx](https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=dark)
 <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
@@ -59,4 +56,9 @@
 <a href="https://wa.me/243824212440/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Lenscorpx-lime?style=flat-square&logo=WhatsApp"> </a> 
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/lenscorpx/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=lenscorpx">
+</a>
+<a href="https://github.com/lenscorpx?tab=followers"><img src="https://img.shields.io/github/followers/lenscorpx?label=Followers&style=social" alt="GitHub Badge"></a>
 ⭐️ From [lenscorpx](https://github.com/lenscorpx)
