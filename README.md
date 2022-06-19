@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+Lens+Mutombo;aka+Lenscorpx)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=Call+me+Lens+Mutombo;aka+Lenscorpx)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
