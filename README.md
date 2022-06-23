@@ -17,18 +17,35 @@
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase, MySQL, Oracle.
 - 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 
-<h2 align="left">🛠 Languages and Tools:</h2>
-
-<p align="left"> <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></p>
-
-<h3>🏻‍💻 Learning </h3>
-
-- 💻 &nbsp; Web Assemblies with Rust and C++
-- 💻 &nbsp; Aspnetcore and Reactjs
-- 💻 &nbsp; Django and FastApi
-
 <br/>
+<p>
+  <img
+    align="left"
+    width="51%"
+    alt="My Stats"
+    src="https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=radical"
+  />
+  <img
+    width="45%"
+    alt="Top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&show_icons=true&theme=radical&layout=compact"
+  />
+</p>
+
+<p>
+  <img
+    width="50%"
+    height="200"
+    alt="GitHub Streak Stats"
+    src="https://github-profile-trophy.vercel.app/?username=lenscorpx&theme=radical&no-frame=true&column=3&row=2"
+  />
+  <img
+    width="47%"
+    height="200"
+    alt="GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+  />
+</p>
 
 <p align="center">
     <a href="https://github.com/lenscorpx/github-readme-streak-stats">
