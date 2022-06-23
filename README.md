@@ -18,47 +18,31 @@
 - 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 
 <br/>
+<h3><align=center>🛠 Git Contributions</h3>
 <p>
   <img
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=radical"
-  />
-  <img
-    width="45%"
-    alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&show_icons=true&theme=radical&layout=compact"
-  />
-</p>
-
-<p>
-  <img
-    width="50%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=lenscorpx&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=onedark"
   />
   <img
     width="47%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
-  />
-</p>
-
+    alt="Top langs"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p> 
+  
+<br/>
+  
+<br/>
 <p align="center">
-    <a href="https://github.com/lenscorpx/github-readme-streak-stats">
-        <img title="🔥 My streak stats at git.io/streak-stats" alt="Lenscorpx's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Lenscorpx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=dark&hide_title=true)](https://github.com/lenscorpx)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/lenscorpx)|![Lenscorpx](https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=dark)
-<br/>
-<br/>
-<br/>
+  <img
+    align="center"
+    width="100%"
+    alt="GitHub Streak Stats"
+    src="https://github-profile-trophy.vercel.app/?username=lenscorpx&theme=onedark"
+  />
+ </p>
 
 [![Lenscorpx's github activity graph](https://activity-graph.herokuapp.com/graph?username=lenscorpx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/lenscorpx/github-readme-activity-graph)
 <br/>
