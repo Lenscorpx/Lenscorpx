@@ -27,7 +27,7 @@
     src="https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=onedark"
   />
   <img
-    width="47%"
+    width="46%"
     alt="Top langs"
     src="https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p> 
