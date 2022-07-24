@@ -3,19 +3,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Entrepreneur (Conebase SAS, Fresh Farms SAS, MediTracks SAS, Etikets SAS, Weka SAS).
-- 🤔 &nbsp; Software Engineer (Conebase SAS).
+- 🤔 &nbsp; Software Engineer (Conebase SAS, Ever, Software Waves).
 - 🤔 &nbsp; Humanitarian (CNR, UNHCR, Intersos, UN Habitat, UNFPA, Save Communities in Conflicts).
 - 🤔 &nbsp; Tech Community Manager (Congo Developers Club, Innovation Days).
 - 🤔 &nbsp; Height : 6.3 ft (1m90), Brown Eyes, Basketball, Football (Barcelona Fan).
-- 🎓 &nbsp; Studied Computer Science at ISIG Edition (Institut Superieur d'Informatique et de Gestion, 2011-2016, Bac+5).
+- 🎓 &nbsp; Studied Software Engineering at ISIG Edition (Institut Superieur d'Informatique et de Gestion, 2011-2016, Bac+5).
 
 <h3>🛠 Tech Stack</h3>
 
-- 💼 &nbsp; Mobile Application Development: Flutter (Dart), Java Android, Kotlin Android.
-- 💼 &nbsp; Web Application Development: ReactJS, GraphQL, NodeJS, ExpressJS, HapiJS, Javascript, HTML5, CSS3, Typescript, Redux, NestJS, JestJs, Cypress, Enzyme.
-- 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms), Java (Swing), ElectronJS.
+- 💼 &nbsp; Mobile Application Development: Flutter (Dart), Native Android (Kotlin).
+- 💼 &nbsp; Web Application Development: .Netcore, .Net Framework, NextJS, ReactJS, GraphQL, NodeJS, Javascript, Typescript, NestJS.
+- 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms), Java (Swing).
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase, MySQL, Oracle.
-- 💼 &nbsp; Devops:Azure, Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
+- 💼 &nbsp; Devops:Azure, Heroku, AWS, Digital Ocean, Git, GitHub, Docker, NPM, YARN, CircleCI.
 
 <br/>
 <h3><align=center>🛠 Git Contributions</h3>
