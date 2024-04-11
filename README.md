@@ -52,8 +52,6 @@
 <a href="https://www.instagram.com/lens_ml/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lensml-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:lensmutombo@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-lensmutombo@outlook.com-red?style=flat-square&logo=Microsoft%20Outlook"></a>
 <a href="mailto:lensmutombo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lensmutombo@gmail.com-orange?style=flat-square&logo=Gmail"></a>
-<a href="https://wa.me/243977551835/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Lenscorpx-lime?style=flat-square&logo=WhatsApp"> </a>
-<a href="https://wa.me/243824212440/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Lenscorpx-lime?style=flat-square&logo=WhatsApp"> </a> 
 </p>
 
 ## ❤ Views and Followers
