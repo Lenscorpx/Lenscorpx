@@ -10,9 +10,9 @@
 
 - 💼 &nbsp; Mobile : Flutter (Dart), Native Android (Kotlin).
 - 💼 &nbsp; Web Application Development: .Netcore, .Net Framework, NextJS, ReactJS, GraphQL, NodeJS, Javascript, Typescript, NestJS.
-- 💼 &nbsp; Application Development(Desktop): C# (Winforms), VB.NET(Winforms).
+- 💼 &nbsp; Application Development(Desktop): C#, VB.NET.
 - 💼 &nbsp; Database : SQL Server, SQL Azure, MongoDB, Redis, SQL Lite, Firebase, MySQL, Oracle.
-- 💼 &nbsp; No code : Adalo, Flutterflow, Bubble.io, Wordpress, Google Sites.
+- 💼 &nbsp; No code : Adalo, Flutterflow, Bubble.io, Wordpress.
 
 <br/>
 <h3><align=center>🛠 Git Contributions</h3>
