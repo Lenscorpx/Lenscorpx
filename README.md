@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an innovative software engineer and entrepreneur.  I founded Conebase and the Congo Developers Club, fostering a passion for technology within the community. My skillset covers both mobile and web development, with expertise in Flutter, .Net, ReactJS, and various databases. I also leverage no-code platforms to create efficient solutions. My Master's degree in Software Engineering equips me with the technical knowledge, while my entrepreneurial spirit fuels my drive to build impactful applications.
+I'm an innovative software engineer and entrepreneur.  I founded Conebase and the Congo Developers Club, fostering a passion for technology within the community. My skillset covers both mobile and web development, with expertise in Flutter, NestJS/NodeJS, .Net, ReactJS, Microservices, Distributed Systems and various databases. I also leverage no-code platforms to create efficient solutions. My Master's degree in Software Engineering equips me with the technical knowledge, while my entrepreneurial spirit fuels my drive to build impactful applications.
 
 
 ## 🌐 Socials:
