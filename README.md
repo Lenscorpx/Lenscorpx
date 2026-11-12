@@ -1,24 +1,169 @@
-# 💫 About Me:
-I'm an innovative software engineer and entrepreneur.  I founded Conebase and the Congo Developers Club, fostering a passion for technology within the community. My skillset covers both mobile and web development, with expertise in Flutter, NestJS/NodeJS, .Net, ReactJS, Microservices, Distributed Systems and various databases. I also leverage no-code platforms to create efficient solutions. My Master's degree in Software Engineering equips me with the technical knowledge, while my entrepreneurial spirit fuels my drive to build impactful applications.
+# Lens M.
+### Software Engineer · Technology Entrepreneur · Digital Transformation Advocate
 
+Building technology that solves real-world problems, empowers businesses, and accelerates digital transformation across Africa.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lensmutombo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lensml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lenscorpx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lensmutombo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lensmutombo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lenscorpx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lenscorpx) 
+I'm a software engineer and technology entrepreneur based in Kinshasa, Democratic Republic of the Congo. My work sits at the intersection of **software engineering, entrepreneurship, digital infrastructure, and business innovation**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat-square&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat-square) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat-square&logo=tRPC&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=flat-square&logo=invision&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat-square&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=flat-square&logo=mercurial&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat-square&logo=codecov&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat-square&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lenscorpx&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+With a Master's degree in Software Engineering and experience building technology ventures, leading engineering initiatives, and developing digital products, I focus on transforming ideas into practical, scalable solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lenscorpx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I believe technology should go beyond writing code. It should solve problems, create opportunities, strengthen institutions, and contribute to economic development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lenscorpx&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM by Myself -->
+## 🚀 What I Do
+
+- **Software Engineering & Architecture** — Designing and building scalable applications, APIs, distributed systems, and enterprise software.
+- **Technology Entrepreneurship** — Founding, developing, and growing technology ventures and digital products.
+- **Digital Transformation** — Helping businesses and institutions modernize operations through technology.
+- **Fintech & Digital Payments** — Exploring payment infrastructure, mobile money integrations, financial inclusion, and digital commerce.
+- **Product Engineering** — Turning business requirements into functional, secure, and maintainable software products.
+- **Developer Ecosystem Development** — Building communities, facilitating partnerships, and connecting developers with technology opportunities.
+- **Technology Strategy** — Exploring how cloud computing, AI, IoT, and digital infrastructure can address African challenges.
+
+## 💼 Entrepreneurship & Leadership
+
+My entrepreneurial journey revolves around building technology companies, supporting innovation, and creating opportunities within the African technology ecosystem.
+
+**Selected ventures and initiatives**
+
+- **Conebase** — Founder. An entrepreneurial initiative focused on technology and digital solutions.
+- **HKL Services SARL** — Founder and Director. Technology solutions spanning software development, mobile applications, IoT, and digital infrastructure.
+- **Congo Developers Club** — Co-founder and board member responsible for affairs and partnerships. Supporting developer communities, knowledge sharing, business connections, and technology adoption.
+- **BML Business Center SARL** — Involved in engineering, product development, and digital business solutions.
+
+I've also contributed to the fintech ecosystem through work with initiatives involving **Maxicash and MaishaPay**, particularly around the adoption of digital financial solutions.
+
+## 🏗️ Areas of Innovation
+
+I'm particularly interested in building and exploring technology across these sectors:
+
+- **Fintech:** Digital payments, mobile money, payment gateways, financial inclusion, and financial infrastructure.
+- **GovTech:** Digital public services, government platforms, tax systems, e-government, and public-sector modernization.
+- **HealthTech:** Hospital management systems, healthcare digitization, and medical information systems.
+- **EdTech:** Learning management systems, digital education, and skills development.
+- **Smart Cities & IoT:** Connected infrastructure, GPS tracking, intelligent transportation, and urban technology.
+- **Digital Commerce:** Marketplaces, POS systems, inventory management, and business automation.
+- **Media & Civic Technology:** Digital information platforms, communication infrastructure, and citizen-oriented services.
+
+## 🔬 Selected Projects & Product Interests
+
+Some of the products and initiatives I'm developing, contributing to, or exploring:
+
+- **BML Digital Ecosystem** — Digital products and business platforms, including BML Marketplace, StudyBoard, and LumusHealth.
+- **Maza** — A digital water distribution and delivery platform connecting consumers, distributors, and payment services.
+- **Tofongolamiso** — A digital information and media platform connecting communities in the DRC and the diaspora.
+- **Imhotep** — Construction project monitoring and management through web and mobile technology.
+- **DukaSmart** — A point-of-sale and business management solution for retail operations.
+- **Digital Infrastructure Projects** — Enterprise systems, hospital networks, payment integrations, and IoT-based solutions.
+
+## 🧰 Technology & Engineering
+
+My engineering interests cover the complete software development lifecycle, from architecture and backend systems to mobile applications, infrastructure, and deployment.
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Architecture**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Cloud, DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Engineering Practices & Emerging Technologies**
+
+- Microservices and distributed systems
+- Domain-Driven Design (DDD)
+- API design, security, and integration
+- CI/CD and automated testing
+- Observability, monitoring, and performance engineering
+- AI-assisted software engineering and intelligent automation
+- Internet of Things (IoT) and connected devices
+- Cloud-native architecture and infrastructure automation
+
+## 🌍 Community & Ecosystem
+
+I believe Africa's digital transformation depends not only on technology but also on people, institutions, collaboration, and strong local ecosystems.
+
+Through Congo Developers Club and technology community initiatives, I work toward:
+
+- Connecting developers with businesses and technology opportunities.
+- Promoting practical engineering knowledge and professional development.
+- Encouraging collaboration between developers, fintech companies, banks, and telecommunications providers.
+- Facilitating conversations around digital innovation and technology adoption.
+- Promoting the development of solutions adapted to African markets.
+
+I'm particularly interested in the intersection of technology, entrepreneurship, investment, and economic development in the Democratic Republic of the Congo and across Africa.
+
+## 📚 What I'm Currently Exploring
+
+- Advanced software architecture and distributed systems.
+- High-performance backend engineering with TypeScript and C#.
+- Scalable fintech and payment infrastructure.
+- AI agents, MCP, and intelligent business automation.
+- Cloud-native systems, event-driven architecture, and zero-downtime deployments.
+- Digital public infrastructure and large-scale government platforms.
+- IoT manufacturing, GPS tracking, and smart mobility solutions.
+- Technology entrepreneurship and building sustainable African technology companies.
+
+## 🤝 Let's Connect
+
+I'm open to meaningful conversations, strategic partnerships, technology collaborations, entrepreneurial opportunities, and initiatives that contribute to Africa's digital transformation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lensmutombo)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lenscorpx)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lensmutombo)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenscorpx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenscorpx&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenscorpx&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*Engineering solutions. Building businesses. Enabling digital transformation.*
